@@ -27,3 +27,4 @@ blue_label.bind("<B1-Motion>",drag_motion)
 
 
 window.mainloop()         
+
